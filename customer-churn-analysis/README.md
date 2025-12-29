@@ -1,7 +1,7 @@
 # Customer Churn Analysis
 
 ## Business Context
-Customer churn directly impacts revenue and long-term growth. Before building predictive models, it is critical to clearly define what churn means from a business perspective and how insights will support decision-making.
+Customer churn directly impacts revenue and long term growth. Before building predictive models, it is critical to clearly define what churn means from a business perspective and how insights will support decision making.
 
 This project focuses on **exploratory data analysis (EDA)** to understand churn behavior and identify key patterns that can inform retention strategies.
 
