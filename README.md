@@ -15,4 +15,7 @@ This repository contains my data analysis projects showcasing skills in Python, 
 ##  Career Goal
 Seeking an entry-level **Junior Data Analyst / BI Analyst** role where I can apply my analytical skills and grow professionally.
 
-
+## ✍️ Articles & Thought 
+- **Problem Framing in Machine Learning: The Strategic First Step in Churn Prediction**  
+  A deep dive into how proper problem definition impacts churn prediction models and business outcomes.  
+  👉 Read on Medium: [https://medium.com/@stephenyferna/problem-framing-in-machine-learning-the-strategic-first-step-in-churn-prediction-462dba257534]
