@@ -32,5 +32,4 @@ This project builds on my earlier work on problem framing in churn prediction, w
 
 👉 Related article: [https://medium.com/@stephenyferna/problem-framing-in-machine-learning-the-strategic-first-step-in-churn-prediction-462dba257534]
 
-## Status
- In progress – EDA and visualizations are being developed.
+
