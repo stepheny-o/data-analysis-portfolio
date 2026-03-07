@@ -21,11 +21,6 @@ This project focuses on **exploratory data analysis (EDA)** to understand churn 
 - Are monthly charges associated with churn?
 - Which customer segments show higher churn risk?
 
-## Key Insights (To Be Updated)
-- Month-to-month contract customers show higher churn
-- Higher monthly charges are associated with increased churn
-- Long-term contracts reduce churn risk
-
 
  ## Related Work
 This project builds on my earlier work on problem framing in churn prediction, where I discussed how defining the right business objective is critical before modeling.
